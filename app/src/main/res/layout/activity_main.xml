@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://scheams.android.com/apk/res/android"
+    xmlns:android="http://scheams.android.com/apk/res-auto"
+    xmlns:android="http://scheams.android.com/tools"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Linearlayout Vertical"
+        android:textSize="25dp"
+        android:textColor="#000000"
+        android:layout_marginleft="60dp" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_parent"
+        android:hint="TextBox"
+        android:gravity="center"
+        tools:ignore="MissingClass" />
+
+</LinearLayout>
